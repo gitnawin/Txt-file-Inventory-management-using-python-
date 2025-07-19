@@ -1,5 +1,4 @@
-also give me contents for readme file
-Of course! Here's a comprehensive README template for your inventory management system project:
+
 
 Inventory Management System
 Description
